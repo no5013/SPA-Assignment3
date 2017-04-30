@@ -1,6 +1,6 @@
 <ul class="nav nav-tabs">
 	<li role="presentation" class="active"><a href="#">Home</a></li>
-	<li role="presentation"><a href="/assignment2/profile">Profile</a></li>
+	<li role="presentation"><a href="${pageContext.request.contextPath}/viewStudents">Students</a></li>
 </ul>
 <section class="section">
 	<div class="container">
