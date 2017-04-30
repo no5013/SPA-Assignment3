@@ -1,2 +1,16 @@
-<h2 class="text-center">Pakpon's JDBCTemplate Project </h2>
-<h3 class="text-center">${message }</h3>
+<ul class="nav nav-tabs">
+	<li role="presentation" class="active"><a href="#">Home</a></li>
+	<li role="presentation"><a href="/assignment2/profile">Profile</a></li>
+</ul>
+<section class="section">
+	<div class="container">
+		<div class="heading">
+		<img src="https://spring.io/img/spring-by-pivotal.png">
+			<h1 class="title">Greeting</h1>
+			<h2 class="subtitle">
+				This is the welcome page. I created it as the assignment for SPA lab.
+				This is the spring framework second assignment for this class. 
+			</h2>
+		</div>
+	</div>
+</section>
